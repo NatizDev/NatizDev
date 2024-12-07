@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is NatizDev and I'm a developer from Poland</h2>
+<h2 align="left" style="color: white;">Hi 👋! My name is NatizDev and I'm a developer from Poland</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/NatizDev.png" alt="Profile picture"  />
 
 ###
 
