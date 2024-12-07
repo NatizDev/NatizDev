@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/NatizDev.png" alt="Profile picture"  />
+<img align="right" height="150" src="https://dcbot.space/assets_dark/logo.png" alt="Profile picture"  />
 
 ###
 
