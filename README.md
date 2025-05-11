@@ -1,4 +1,4 @@
-<h2 align="left" style="color: white;">👋🏻・Hi! My name is NatizDev and I'm a developer from Poland</h2>
+<h2 align="left" style="color: white;">👋🏻・Hi! My name is Dexman and I'm a developer from Poland</h2>
 
 ###
 
